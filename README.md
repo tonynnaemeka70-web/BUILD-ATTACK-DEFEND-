@@ -52,6 +52,32 @@ Results
  Project Files
 - Full report: [doc/BUILD_ATTACK_DEFEND.pdf](doc/BUILD_ATTACK_DEFEND.pdf)
 
+Evidence & Screenshots
+
+1. Reconnaissance
+- Nmap scan showing open ports  
+  ![Nmap Scan](screenshot/nmap_scan_open_ports.png)
+
+2. Exploitation Attempts
+- Metasploit exploit attempt against DVWA  
+  ![Metasploit Exploit](screenshot/metasploit_exploit_attempt.png)
+
+ 3. Web Application Exploitation
+- DVWA SQL Injection bypass  
+  ![DVWA SQL Injection](screenshot/dvwa_sql_injection_success.png)
+
+ 4. Defensive Measures
+- ModSecurity blocking malicious SQLi request  
+  ![ModSecurity Block](screenshot/modsecurity_block_log.png)
+
+ 5. Honeypot Activity
+- Cowrie honeypot logs capturing unauthorized SSH attempts  
+  ![Cowrie Honeypot Logs](screenshot/cowrie_honeypot_logs.png)
+
+ 6. Monitoring & Analysis
+- ELK Kibana dashboard showing alerts/logs  
+  ![Kibana Dashboard](screenshot/elk_kibana_dashboard.png)
+
 
 
 
