@@ -50,9 +50,8 @@ Results
 
 
  Project Files
-- Full report: [`report/BUILD_ATTACK_DEFEND.pdf`](report/BUILD_ATTACK_DEFEND.pdf)
-- Configurations: [`configs/`](configs/)
-- Screenshots: [`screenshots/`](screenshots/)
+- Full report: [doc/BUILD_ATTACK_DEFEND.pdf](doc/BUILD_ATTACK_DEFEND.pdf)
+
 
 
 
