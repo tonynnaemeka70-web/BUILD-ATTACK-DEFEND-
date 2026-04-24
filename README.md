@@ -2,7 +2,7 @@ Build, Attack, Defend: Cybersecurity Simulation Project
 
  Overview
  
-This project simulates a small-scale enterprise network to demonstrate the **full lifecycle of a cyber attack:
+This project simulates a small-scale enterprise network to demonstrate the full lifecycle of a cyber attack:
 - Deployment of vulnerable systems (DVWA, Cowrie honeypot)
 - Attack simulation (Nmap, Metasploit, SQL Injection)
 - Defensive mechanisms (ModSecurity WAF, Firewall)
